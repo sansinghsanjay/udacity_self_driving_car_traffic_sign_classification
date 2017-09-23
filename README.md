@@ -7,7 +7,9 @@ Identifying traffic signs on road so that Self Driving Cars can be prevent from 
 
 ### Self Driving Cars
 Self Driving Cars are unmanned ground vehicles, also known as Autonomus Cars, Driverless Cars, Robotic Cars. 
-[image URL]
+<p align="center">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/images/self-driving-car.jpg">
+</p>
 
 ### Technologies Used
 Following are the technologies used by these Self Driving Cars to navigate:
