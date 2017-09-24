@@ -37,7 +37,7 @@ Data set is provided by Udacity. This data set consists of 43 classes. Each clas
 Following are the classes of given data:
 
 1. Speed limit (20km/h): 211 image files.
-<p align="center>
+<p align="center">
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00000/00000_00010.ppm">
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00000/00001_00003.ppm">
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00000/00001_00006.ppm">
@@ -47,7 +47,7 @@ Following are the classes of given data:
 </p>
 
 2. Speed limit (30km/h): 2221 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -57,7 +57,7 @@ Following are the classes of given data:
 </p>
 
 3. Speed limit (50km/h): 2251 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -67,7 +67,7 @@ Following are the classes of given data:
 </p>
 
 4. Speed limit (60km/h): 1411 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -77,7 +77,7 @@ Following are the classes of given data:
 </p>
 
 5. Speed limit (70km/h): 1981 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -87,7 +87,7 @@ Following are the classes of given data:
 </p>
 
 6. Speed limit (80km/h): 1861 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -97,7 +97,7 @@ Following are the classes of given data:
 </p>
 
 7. End of speed limit (80km/h):	421 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -107,7 +107,7 @@ Following are the classes of given data:
 </p>
 
 8. Speed limit (100km/h): 1441 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -117,7 +117,7 @@ Following are the classes of given data:
 </p>
 
 9. Speed limit (120km/h): 1411 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -127,7 +127,7 @@ Following are the classes of given data:
 </p>
 
 10. No passing: 1471 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -137,7 +137,7 @@ Following are the classes of given data:
 </p>
 
 11. No passing for vehicles over 3.5 metric tons: 2011 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -147,7 +147,7 @@ Following are the classes of given data:
 </p>
 
 12. Right-of-way at the next intersection: 1321 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -157,7 +157,7 @@ Following are the classes of given data:
 </p>
 
 13. Priority road :2101 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -167,7 +167,7 @@ Following are the classes of given data:
 </p>
 
 14. Yield: 2161 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -177,7 +177,7 @@ Following are the classes of given data:
 </p>
 
 15. Stop:	781 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -187,7 +187,7 @@ Following are the classes of given data:
 </p>
 
 16. No vehicles:	631 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -197,7 +197,7 @@ Following are the classes of given data:
 </p>
 
 17. Vehicles over 3.5 metric tons prohibited:	421 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -207,7 +207,7 @@ Following are the classes of given data:
 </p>
 
 18. No entry: 1111 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -217,7 +217,7 @@ Following are the classes of given data:
 </p>
 
 19. General caution: 1201 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -227,7 +227,7 @@ Following are the classes of given data:
 </p>
 
 20. Dangerous curve to the left:	211 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -237,7 +237,7 @@ Following are the classes of given data:
 </p>
 
 21. Dangerous curve to the right:	361 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -247,7 +247,7 @@ Following are the classes of given data:
 </p>
 
 22. Double curve:	331 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -257,7 +257,7 @@ Following are the classes of given data:
 </p>
 
 23. Bumpy road:	391 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -267,7 +267,7 @@ Following are the classes of given data:
 </p>
 
 24. Slippery road:	511 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -277,7 +277,7 @@ Following are the classes of given data:
 </p>
 
 25. Road narrows on the right:	271 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -287,7 +287,7 @@ Following are the classes of given data:
 </p>
 
 26. Road work: 1501 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -297,7 +297,7 @@ Following are the classes of given data:
 </p>
 
 27. Traffic signals:	601 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -307,7 +307,7 @@ Following are the classes of given data:
 </p>
 
 28. Pedestrians:	241 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -317,7 +317,7 @@ Following are the classes of given data:
 </p>
 
 29. Children crossing:	541 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -327,7 +327,7 @@ Following are the classes of given data:
 </p>
 
 30. Bicycles crossing:	271 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -337,7 +337,7 @@ Following are the classes of given data:
 </p>
 
 31. Beware of ice/snow:	451 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -347,7 +347,7 @@ Following are the classes of given data:
 </p>
 
 32. Wild animals crossing:	781 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -357,7 +357,7 @@ Following are the classes of given data:
 </p>
 
 33. End of all speed and passing limits:	241 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -367,7 +367,7 @@ Following are the classes of given data:
 </p>
 
 34. Turn right ahead:	690 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -377,7 +377,7 @@ Following are the classes of given data:
 </p>
 
 35. Turn left ahead:	421 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -387,7 +387,7 @@ Following are the classes of given data:
 </p>
 
 36. Ahead only: 1201 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -397,7 +397,7 @@ Following are the classes of given data:
 </p>
 
 37. Go straight or right:	391 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -407,7 +407,7 @@ Following are the classes of given data:
 </p>
 
 38. Go straight or left:	211 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -417,7 +417,7 @@ Following are the classes of given data:
 </p>
 
 39. Keep right: 2071 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -427,7 +427,7 @@ Following are the classes of given data:
 </p>
 
 40. Keep left:	301 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -437,7 +437,7 @@ Following are the classes of given data:
 </p>
 
 41. Roundabout mandatory:	361 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -447,7 +447,7 @@ Following are the classes of given data:
 </p>
 
 42. End of no passing:	241 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
@@ -457,7 +457,7 @@ Following are the classes of given data:
 </p>
 
 43. End of no passing by vehicles over 3.5 metric tons:	241 image files.
-<p align="center>
+<p align="center">
 <img src="">
 <img src="">
 <img src="">
