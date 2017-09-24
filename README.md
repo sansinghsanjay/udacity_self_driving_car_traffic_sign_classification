@@ -48,162 +48,162 @@ Following are the classes of given data:
 
 2. Speed limit (30km/h): 2221 image files.
 <p align="center">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00001/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00001/00016_00001.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00001/00034_00014.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00001/00058_00019.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00001/00062_00018.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00001/00073_00018.png">
 </p>
 
 3. Speed limit (50km/h): 2251 image files.
 <p align="center">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00002/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00002/00016_00001.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00002/00034_00014.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00002/00058_00019.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00002/00062_00018.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00002/00073_00018.png">
 </p>
 
 4. Speed limit (60km/h): 1411 image files.
 <p align="center">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00003/00001_00003.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00003/00008_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00003/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00003/00013_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00003/00016_00001.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00003/00034_00014.png">
 </p>
 
 5. Speed limit (70km/h): 1981 image files.
 <p align="center">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00004/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00004/00013_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00004/00016_00001.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00004/00034_00014.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00004/00058_00019.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00004/00062_00018.png">
 </p>
 
 6. Speed limit (80km/h): 1861 image files.
 <p align="center">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00005/00001_00003.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00005/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00005/00013_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00005/00016_00001.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00005/00034_00014.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00005/00058_00019.png">
 </p>
 
 7. End of speed limit (80km/h):	421 image files.
 <p align="center">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00006/00000_00010.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00006/00001_00003.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00006/00006_00005.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00006/00008_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00006/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00006/00013_00016.png">
 </p>
 
 8. Speed limit (100km/h): 1441 image files.
 <p align="center">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00007/00001_00003.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00007/00008_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00007/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00007/00013_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00007/00016_00001.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00007/00034_00014.png">
 </p>
 
 9. Speed limit (120km/h): 1411 image files.
 <p align="center">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00008/00001_00003.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00008/00008_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00008/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00008/00013_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00008/00016_00001.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00008/00034_00014.png">
 </p>
 
 10. No passing: 1471 image files.
 <p align="center">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00009/00001_00003.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00009/00008_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00009/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00009/00013_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00009/00016_00001.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00009/00034_00014.png">
 </p>
 
 11. No passing for vehicles over 3.5 metric tons: 2011 image files.
 <p align="center">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00010/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00010/00013_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00010/00016_00001.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00010/00034_00014.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00010/00058_00019.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00010/00062_00018.png">
 </p>
 
 12. Right-of-way at the next intersection: 1321 image files.
 <p align="center">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00011/00001_00003.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00011/00008_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00011/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00011/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00011/00016_00001.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00011/00034_00014.png">
 </p>
 
 13. Priority road :2101 image files.
 <p align="center">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00012/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00012/00013_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00012/00013_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00012/00034_00014.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00012/00058_00019.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00012/00062_00018.png">
 </p>
 
 14. Yield: 2161 image files.
 <p align="center">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00013/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00013/00013_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00013/00016_00001.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00013/00034_00014.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00013/00034_00014.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00013/00062_00018.png">
 </p>
 
 15. Stop:	781 image files.
 <p align="center">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00013/00062_00018.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00014/00001_00003.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00014/00008_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00014/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00014/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00014/00016_00001.png">
 </p>
 
 16. No vehicles:	631 image files.
 <p align="center">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00014/00016_00001.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00014/00016_00001.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00015/00008_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00015/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00015/00013_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00015/00013_00016.png">
 </p>
 
 17. Vehicles over 3.5 metric tons prohibited:	421 image files.
 <p align="center">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00016/00000_00010.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00016/00001_00003.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00016/00006_00005.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00016/00008_00016.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00016/00008_00028.png">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00016/00013_00016.png">
 </p>
 
 18. No entry: 1111 image files.
