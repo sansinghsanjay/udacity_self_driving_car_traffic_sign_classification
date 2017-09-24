@@ -178,7 +178,7 @@ Following are the classes of given data:
 
 15. Stop:	781 image files.
 <p align="center">
-<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00013/00062_00018.png"> &nbsp &nbsp &nbsp
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00014/00000_00010.png"> &nbsp &nbsp &nbsp
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00014/00001_00003.png"> &nbsp &nbsp &nbsp
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00014/00008_00016.png"> &nbsp &nbsp &nbsp
 <img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00014/00008_00028.png"> &nbsp &nbsp &nbsp
