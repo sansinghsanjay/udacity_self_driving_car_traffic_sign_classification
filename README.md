@@ -36,49 +36,435 @@ Data set is provided by Udacity. This data set consists of 43 classes. Each clas
 
 Following are the classes of given data:
 
-0. Speed limit (20km/h): 211
-1. Speed limit (30km/h): 2221
-2. Speed limit (50km/h): 2251
-3. Speed limit (60km/h): 1411
-4. Speed limit (70km/h): 1981
-5. Speed limit (80km/h): 1861
-6. End of speed limit (80km/h)	421
-7. Speed limit (100km/h)	1441
-8. Speed limit (120km/h)	1411
-9. No passing	1471
-10. No passing for vehicles over 3.5 metric tons	2011
-11. Right-of-way at the next intersection	1321
-12. Priority road	2101
-13. Yield	2161
-14. Stop	781
-15. No vehicles	631
-16. Vehicles over 3.5 metric tons prohibited	421
-17. No entry	1111
-18. General caution	1201
-19. Dangerous curve to the left	211
-20. Dangerous curve to the right	361
-21. Double curve	331
-22. Bumpy road	391
-23. Slippery road	511
-24. Road narrows on the right	271
-25. Road work	1501
-26. Traffic signals	601
-27. Pedestrians	241
-28. Children crossing	541
-29. Bicycles crossing	271
-30. Beware of ice/snow	451
-31. Wild animals crossing	781
-32. End of all speed and passing limits	241
-33. Turn right ahead	690
-34. Turn left ahead	421
-35. Ahead only	1201
-36. Go straight or right	391
-37. Go straight or left	211
-38. Keep right	2071
-39. Keep left	301
-40. Roundabout mandatory	361
-41. End of no passing	241
-42. End of no passing by vehicles over 3.5 metric tons	241
+0. Speed limit (20km/h): 211 image files.
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+1. Speed limit (30km/h): 2221 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+2. Speed limit (50km/h): 2251 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+3. Speed limit (60km/h): 1411 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+4. Speed limit (70km/h): 1981 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+5. Speed limit (80km/h): 1861 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+6. End of speed limit (80km/h):	421 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+7. Speed limit (100km/h): 1441 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+8. Speed limit (120km/h): 1411 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+9. No passing: 1471 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+10. No passing for vehicles over 3.5 metric tons: 2011 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+11. Right-of-way at the next intersection: 1321 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+12. Priority road :2101 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+13. Yield: 2161 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+14. Stop:	781 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+15. No vehicles:	631 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+16. Vehicles over 3.5 metric tons prohibited:	421 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+17. No entry: 1111 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+18. General caution: 1201 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+19. Dangerous curve to the left:	211 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+20. Dangerous curve to the right:	361 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+21. Double curve:	331 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+22. Bumpy road:	391 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+23. Slippery road:	511 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+24. Road narrows on the right:	271 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+25. Road work: 1501 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+26. Traffic signals:	601 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+27. Pedestrians:	241 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+28. Children crossing:	541 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+29. Bicycles crossing:	271 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+30. Beware of ice/snow:	451 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+31. Wild animals crossing:	781 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+32. End of all speed and passing limits:	241 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+33. Turn right ahead:	690 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+34. Turn left ahead:	421 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+35. Ahead only: 1201 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+36. Go straight or right:	391 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+37. Go straight or left:	211 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+38. Keep right: 2071 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+39. Keep left:	301 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+40. Roundabout mandatory:	361 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+41. End of no passing:	241 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+42. End of no passing by vehicles over 3.5 metric tons:	241 image files.
+
+<p align="center>
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
 
 From above it is clear that data is highly imbalanced. To make it balance, some image augmentation operations are applied on classes having less number of images.
 
