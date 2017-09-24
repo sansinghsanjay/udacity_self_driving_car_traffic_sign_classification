@@ -490,7 +490,11 @@ Given data is splitted into two sets by checking stratify option in train_test_s
 2. Validation data: Stratified 10% of given data
 
 CNN is trained for 300 epochs. Following are the relevant plots showing training loss/accuracy and validation loss/accuracy at each epoch:
-[plots] [plots]
+<p align="center">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/plots/accuracy.png">
+&nbsp &nbsp
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/plots/loss.png">
+</p>
 
 Achieved accuracy on validation data set after 300 epochs is 95.51%.
 
