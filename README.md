@@ -38,12 +38,12 @@ Following are the classes of given data:
 
 1. Speed limit (20km/h): 211 image files.
 <p align="center">
-<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00000/00000_00010.ppm">
-<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00000/00001_00003.ppm">
-<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00000/00001_00006.ppm">
-<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00000/00005_00010.ppm">
-<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00000/00006_00005.ppm">
-<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00000/00006_00010.ppm">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00000/00000_00010.jpg">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00000/00001_00003.jpg">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00000/00001_00006.jpg">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00000/00005_00010.jpg">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00000/00006_00005.jpg">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/sample_data/00000/00006_00010.jpg">
 </p>
 
 2. Speed limit (30km/h): 2221 image files.
