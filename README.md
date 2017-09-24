@@ -506,4 +506,10 @@ To use this project:
 ## Limitations
 1. On turns, this code is giving weired output.
 2. If the position of lane get changed (like width of lanes), then this code may not be able to detect the lanes even if lanes are straight. This is because region of interest is hard coded here, its not generic.
-3. As per some latest researches, it came out that if someone sticks any simple sticker on traffic sign then these neural network model easily gets failed and can identify "stop" as "speed limit 80 kmph".
+3. As per some latest researches, it came out that if someone sticks any simple sticker on traffic sign then these neural network model easily gets failed and can identify "stop" as "45 mile per hour". Following is their paper: https://arxiv.org/abs/1707.08945
+
+Following are the images with stickers (Source: https://www.autoblog.com/2017/08/04/self-driving-car-sign-hack-stickers/):
+<p align="center">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/images/self_driving_car_hacked_using_sticker.jpg">
+</p>
+
