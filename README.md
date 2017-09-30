@@ -12,6 +12,9 @@ Self Driving Cars are unmanned ground vehicles, also known as Autonomus Cars, Dr
 </p>
 
 ### Technologies Used
+<p align="center">
+<img src="https://github.com/sansinghsanjay/udacity_self_driving_car_traffic_sign_classification/blob/master/technologies_used/technologies_used.png">
+  </p>
 Following are the technologies used by these Self Driving Cars to navigate:
 1. Computer Vision and Machine Learning (AI) to find path, to classify traffic signs, etc.
 2. Sensor Fusion to sense the surrounding moving vehicles.
